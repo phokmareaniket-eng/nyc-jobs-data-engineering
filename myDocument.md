@@ -14,8 +14,3 @@
 - Spark window functions for ranking.
 - Feature engineering from text.
 - Handling distributed correlation.
-
-## Considerations
-- NLP model would improve skill extraction.
-- Degree parsing could be enhanced.
-- Real US market data needed for broader skill comparison.
